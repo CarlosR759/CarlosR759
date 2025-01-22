@@ -22,7 +22,7 @@
 
 ## Recent Stars :
 
-- [ChrisTitus WinUtil](https:github.com/ChrisTitusTech/winutil) -  Utility for Windows modification.
+- [ChrisTitus WinUtil](https://github.com/ChrisTitusTech/winutil) -  Utility for Windows modification.
 
 - [ChrisTitus Linutil](https://github.com/ChrisTitusTech/linutil) - Utility for Linux installation and modification.
 
