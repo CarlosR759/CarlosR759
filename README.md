@@ -7,6 +7,13 @@
 
 ## I'm Currently Working on:
 
+- My hugo blog website.
+
+- My perosnal Arch Linux Install script.
+
+- LookingGlass script for Linux/Windows dual stack workspace.
+
+- Bulding AI agents with pydantic AI and maybe langgraph.
 
 ## Latest projects:
 
@@ -15,10 +22,17 @@
 
 ## Recent Stars :
 
+- [ChrisTitus WinUtil](https:github.com/ChrisTitusTech/winutil) -  Utility for Windows modification.
+
+- [ChrisTitus Linutil](https://github.com/ChrisTitusTech/linutil) - Utility for Linux installation and modification.
+
+
 
 ## Recent blog post:
 
+- Work in progress 
 
 ## What I know: 
 
+- Work in progress 
 
