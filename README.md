@@ -22,6 +22,8 @@
 
 ## Recent Stars :
 
+- [Github Metrics](https://github.com/lowlighter/metrics?tab=readme-ov-file) - Github stats made it nice and easy.
+
 - [ChrisTitus WinUtil](https://github.com/ChrisTitusTech/winutil) -  Utility for Windows modification.
 
 - [ChrisTitus Linutil](https://github.com/ChrisTitusTech/linutil) - Utility for Linux installation and modification.
