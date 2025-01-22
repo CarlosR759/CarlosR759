@@ -39,6 +39,7 @@
 <a href="https://www.typescriptlang.org/"><img alt="typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40"></a>
 <a href="https://www.python.org/"><img alt="python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"></a>
 <a href="https://www.r-project.org/"><img alt="r-language" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" height="40"></a>
+<a href="https://www.latex-project.org/"><img alt="r-language" src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg" width="40" height="40"></a>
 <a href=""><img alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40"></a>
 <a href="https://www.gnu.org/software/bash/"><img alt="sh" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40" height="40"></a>
 <a href="https://www.postgresql.org/"><img alt="postgresql" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" height="40"></a>
