@@ -2,7 +2,6 @@
 
 ##### My name is Carlos and this is my github repo. Here you can find anything related to programming and IT. I have a background knowledge in devops and k8s, 󱃾 but now I'm also focusing in programming more, which I also Like to do.
 
-:wave:
 ## I'm Currently Working on:
 
 - My hugo blog website.
@@ -15,10 +14,10 @@
 
 ## Latest projects:
 
-- [dwm-setup](https://github.com/CarlosR759/dwm-rice) - My dwm ricing made for productivity 
+- [dwm-setup](https://github.com/CarlosR759/dwm-rice) - My dwm ricing made for productivity :hammer:
 
 
-## Recent Stars :
+## Recent Stars :start: :
 
 - [Github Metrics](https://github.com/lowlighter/metrics?tab=readme-ov-file) - Github stats made it nice and easy.
 
@@ -30,7 +29,7 @@
 
 ## Recent blog post:
 
-- Work in progress 
+- Work in progress :wrench:
 
 ## What I know: 
 <a href="https://nodejs.org/"><img alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="60" height="40"></a>
