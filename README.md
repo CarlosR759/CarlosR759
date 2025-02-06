@@ -19,6 +19,8 @@
 
 ## Recent Stars :star: :
 
+- [Exo](https://github.com/exo-explore/exo?tab=readme-ov-file) - A program to run LLM in a network cluster.
+
 - [Github Metrics](https://github.com/lowlighter/metrics?tab=readme-ov-file) - Github stats made it nice and easy.
 
 - [ChrisTitus WinUtil](https://github.com/ChrisTitusTech/winutil) -  Utility for Windows modification.
