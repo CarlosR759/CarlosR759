@@ -17,7 +17,7 @@
 - [dwm-setup](https://github.com/CarlosR759/dwm-rice) - My dwm ricing made for productivity :hammer:
 
 
-## Recent Stars :start: :
+## Recent Stars :star: :
 
 - [Github Metrics](https://github.com/lowlighter/metrics?tab=readme-ov-file) - Github stats made it nice and easy.
 
