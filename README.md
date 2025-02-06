@@ -42,7 +42,7 @@
 <a href="https://www.postgresql.org/"><img alt="postgresql" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" height="40"></a>
 <a href="https://www.mongodb.com/"><img alt="mongodb" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50" height="40"></a>
 <a href="https://git-scm.com/"><img alt="git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" height="40"></a>
-<a href="https://www.docker.com/"><img alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="50" height="40"></a>
+<a href="https://www.docker.com/"><img alt="docker" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" width="50" height="40"></a>
 <a href="https://kubernetes.io"><img alt="kubernetes" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="50" height="40"></a>
 <a href="https://www.docs.ansible.com/"><img alt="ansible" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="40" height="40"></a>
 <a href="https://prometheus.io/"><img alt="prometheus" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="40" height="40"></a>
