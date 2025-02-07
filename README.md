@@ -14,6 +14,8 @@
 
 ## Latest projects:
 
+- [ArchInstaller](https://github.com/CarlosR759/ArchLinuxInstaller) - Custom automated arch linux installation script.
+
 - [local-Agent](https://github.com/CarlosR759/multiAgentSystem) - An agent web app to work with LLMs (Work in progress).
 
 - [dwm-setup](https://github.com/CarlosR759/dwm-rice) - My dwm ricing made for productivity :hammer:
