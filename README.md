@@ -23,6 +23,12 @@
 
 ## Recent Stars :star: :
 
+- [Zluda](https://github.com/vosen/ZLUDA) - Run CUDA in non nvidia GPUs.
+
+- [vllm](https://github.com/vllm-project/vllm) - backend server for LLMs.
+
+- [crawl4ai](https://github.com/unclecode/crawl4ai) - Crawler & scrapper for LLMs.
+
 - [Exo](https://github.com/exo-explore/exo?tab=readme-ov-file) - A program to run LLM in a network cluster.
 
 - [Github Metrics](https://github.com/lowlighter/metrics?tab=readme-ov-file) - Github stats made it nice and easy.
