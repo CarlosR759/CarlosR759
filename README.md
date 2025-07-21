@@ -47,6 +47,7 @@
 <a href="https://nodejs.org/"><img alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="60" height="40"></a>
 <a href="https://www.typescriptlang.org/"><img alt="typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40"></a>
 <a href="https://www.python.org/"><img alt="python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"></a>
+<a href="https://www.pytorch.org/"><img alt="pytorch" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" width="40" height="40"></a>
 <a href="https://www.r-project.org/"><img alt="r-language" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" height="40"></a>
 <a href="https://www.latex-project.org/"><img alt="r-language" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" height="40"></a>
 <a href=""><img alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40"></a>
