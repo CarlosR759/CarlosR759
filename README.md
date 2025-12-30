@@ -1,12 +1,16 @@
 <center> <h1> Hi There :wave: </h1> </center>
 
-##### My name is Carlos and this is my github repo. Here you can find anything related to programming and IT. I have a background knowledge in devops and k8s, but now I'm also focusing in programming more, which I also Like to do.
+##### My name is Carlos and this is my github repo. Here you can find anything related to programming and IT. I have a background knowledge in devops and k8s, but now I'm also focusing in programming more, which I also Like to do. 
 
 ## I'm Currently Working on:
 
-- My hugo blog website.
+- Fine Tuning LLMs and CNNs.
 
-- My perosnal Arch Linux Install script.
+- Making my Eww widgets for Linux.
+
+- Updating my perosnal Arch Linux Install script.
+
+- My hugo blog website and personal web page.
 
 - LookingGlass script for Linux/Windows dual stack workspace.
 
@@ -23,11 +27,13 @@
 
 ## Recent Stars :star: :
 
+- [Unsloth](https://github.com/unslothai/unsloth) - Framework for fine tuning models.
+
 - [Zluda](https://github.com/vosen/ZLUDA) - Run CUDA in non nvidia GPUs.
 
-- [vllm](https://github.com/vllm-project/vllm) - backend server for LLMs.
+- [Vllm](https://github.com/vllm-project/vllm) - backend server for LLMs.
 
-- [crawl4ai](https://github.com/unclecode/crawl4ai) - Crawler & scrapper for LLMs.
+- [Crawl4ai](https://github.com/unclecode/crawl4ai) - Crawler & scrapper for LLMs.
 
 - [Exo](https://github.com/exo-explore/exo?tab=readme-ov-file) - A program to run LLM in a network cluster.
 
@@ -55,7 +61,7 @@
 <a href="https://www.postgresql.org/"><img alt="postgresql" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" height="40"></a>
 <a href="https://www.mongodb.com/"><img alt="mongodb" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50" height="40"></a>
 <a href="https://git-scm.com/"><img alt="git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" height="40"></a>
-<a href="https://www.docker.com/"><img alt="docker" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" width="50" height="40"></a>
+<a href="https://www.docker.com/"><img alt="docker" src=" https://upload.wikimedia.org/wikipedia/commons/8/89/Docker_Logo.svg" width="50" height="40"></a>
 <a href="https://kubernetes.io"><img alt="kubernetes" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="50" height="40"></a>
 <a href="https://www.docs.ansible.com/"><img alt="ansible" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="40" height="40"></a>
 <a href="https://prometheus.io/"><img alt="prometheus" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="40" height="40"></a>
